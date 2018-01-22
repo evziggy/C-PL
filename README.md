@@ -11,3 +11,5 @@ Numbers - This program finds either the largest or smallest of the ten numbers a
 Rectangle - Program that calculates the area and perimeter of a rectangle.
 #
 Remove - Program to remove a comment starting with /* and ending with */ in a statement, which is entered by the user.
+#
+Poly - Program inputs a polynomial of degree 8 and then evaluates the polynomial at various values of x.
